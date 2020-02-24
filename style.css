@@ -5,7 +5,7 @@ body{
     margin: 0;
 }
 header{
-    background: black;
+    background: #1826ee;
 }
 .container{
     margin: 0 auto;
@@ -42,7 +42,7 @@ nav ul li a{
 nav ul li a:hover{
     background-color: rgb(19, 243, 19) ;
     opacity: .6;
-    color: black;
+    color: #1826ee;
 }
 nav ul li a:hover{
     width: 100%;
@@ -63,7 +63,7 @@ input{
 }
 .btn{
     text-align: center;
-    border: 3px solid black;
+    border: 3px solid #1826ee;
     height: 50px;
     width: 180px;
     text-transform: uppercase;
@@ -76,7 +76,7 @@ input{
     margin-left: 195px;
     font-size: 20px;
     background: rgb(16, 209, 16);
-    color: black;
+    color: #1826ee;
     margin-bottom: 150px;;
 }
 .btn:hover{
@@ -108,7 +108,7 @@ input{
     width: 100%;
     height: 100%;
     border-radius: 10px;
-    background: linear-gradient(black,rgb(16, 209, 16));
+    background: linear-gradient(#1826ee,rgb(16, 209, 16));
 }
 .box:hover{
     transform: scale(1.02);
